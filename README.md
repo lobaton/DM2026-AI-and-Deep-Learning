@@ -1,4 +1,4 @@
-# Data Matters Workshop: Overview of AI and Deep Learning
+# Data Matters Workshop: AI and Deep Learning
 
 ## Overview
 
