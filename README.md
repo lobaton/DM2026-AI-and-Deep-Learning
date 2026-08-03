@@ -24,7 +24,7 @@
 
 ```
 -  9:30 -  9:45 am: Introduction and Course Overview
--  9:45 - 10:45 am: What are AI and Machine Learning
+-  9:45 - 10:45 am: What are AI and Machine Learning [[EDA Demo](Src/EDA.ipynb)]
 - 10:45 - 11:00 am: Break
 - 11:00 - 12:00 pm: From Tensors to Agents
 - 12:00 -  1:20 pm: Lunch Break
