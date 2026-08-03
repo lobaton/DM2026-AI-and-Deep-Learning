@@ -22,13 +22,11 @@
 
 ## Agenda
 
-```
--  9:30 -  9:45 am: Introduction and Course Overview
+-  9:30 -  9:45 am: Introduction and Course Overview [[Slides](Slides/Intro2AI.pdf)]
 -  9:45 - 10:45 am: What are AI and Machine Learning [[EDA Demo](Src/EDA.ipynb)]
-- 10:45 - 11:00 am: Break
-- 11:00 - 12:00 pm: From Tensors to Agents
-- 12:00 -  1:20 pm: Lunch Break
--  1:20 -  2:15 pm: Deep Learning Architectures
--  2:15 -  2:30 pm: Break
--  2:30 -  3:30 pm: Deep Learning Workflow Demo
-```
+- 10:45 - 11:00 am: **Break**
+- 11:00 - 12:00 pm: From Tensors to Agents [[Slides](Slides/FromTensors2Agents.pdf)]
+- 12:00 -  1:20 pm: **Lunch Break**
+-  1:20 -  2:15 pm: Deep Learning Architectures [[Slides](Slides/Architectures.pdf)]
+-  2:15 -  2:30 pm: **Break**
+-  2:30 -  3:30 pm: Deep Learning Workflow Demo [[Slides](Slides/MLWorkflow.pdf) | [ML Train Demo](Src/MLTrain.ipynb)]
